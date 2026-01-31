@@ -1,0 +1,1 @@
+A project that I finished in a previous class was for and agent based modeling course in which I had to modify an existing model to demonstrate understanding of the modeling tools. I modified the Schelling model to incorporate a change in neighbor desirability over time based on exposure to neighbor types. This yielded some interesting results.

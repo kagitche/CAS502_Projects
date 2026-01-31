@@ -1,3 +1,4 @@
 Hello,
 
 My name is Kyle Gitchell and I am a student in CAS 502. I live in Western Washington State with my wife and two children. While I am not at work or doing school work I enjoy playing video games, reading, and playing tabletop games. I am excited to be learning about Git after being a lifelong computer nerd and having never dove in!
+adding a modification here.
